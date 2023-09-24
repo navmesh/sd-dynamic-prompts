@@ -648,7 +648,6 @@ anorak
 apron
 aran sweater
 arm warmers
-armband
 armlet
 armor
 armored boots
@@ -801,8 +800,6 @@ duds
 duffel coat
 dungarees
 duster
-earclip
-earmuffs
 elastic
 elf tunic
 epaulettes
@@ -820,8 +817,6 @@ flats
 flip-flops
 flower trim
 football jersey
-footwear ribbon
-forehead protector
 formal wear
 frilled shirt
 frills
@@ -844,8 +839,6 @@ garter straps
 garters
 gathers
 gear
-ghost costume
-gi
 gilet
 girdle
 gold trim
@@ -853,31 +846,16 @@ gothpunk
 gown
 gym shorts
 gym uniform
-habit
 hachimaki
-hair bow
-hair ornament
-hair ribbon
-hairband
-hairclip
-hairpin
 halloween costume
 halter top
 halterneck
-handbag
 handkerchief
 harem outfit
 hauberk
 Hawaiian shirt
 hazmat suit
-headband
-headdress
-headscarf
-helmet
-hem
 hev suit
-high heel boots
-high heels
 high tops
 high-low skirt
 high-waist skirt
@@ -926,9 +904,6 @@ latex
 leaf bikini
 leather jacket
 lederhosen
-leg belt
-leg warmers
-leggings
 legskin
 legwear garter
 leotard
@@ -943,7 +918,6 @@ long johns
 long skirt
 long underwear
 long-sleeve shirt
-loose socks
 lowleg bikini
 lowleg pants
 lowleg shorts
@@ -978,7 +952,6 @@ navy uniform
 neck ribbon
 neck ruff
 neckerchief
-necklace
 necktie
 negligee
 nehru jacket
@@ -1028,15 +1001,12 @@ pinafore
 plague doctor mask
 plaid
 plaid skirt
-platform boots
-platform footwear
 pleated skirt
 plug suit
 plugsuit
 pocket
 pocket watch
 pocketbook
-pointy footwear
 police uniform
 polo
 polo shirt
@@ -1068,7 +1038,6 @@ sailor dress
 salsa dress
 sam browne belt
 samurai armor
-sandals
 santa costume
 santa outfit
 sari
@@ -1235,9 +1204,6 @@ windbreaker
 winter coat
 woolens
 wrap
-wrist cuffs
-wrist scrunchie
-wristband
 yellow raincoat
 yoga pants
 yoke
@@ -1462,7 +1428,7 @@ Maxi skirt, tank top, and slides.
 Printed jumpsuit, denim jacket, and block heels.
 Paperbag waist shorts, fitted top, and wedges.
 Straight leg jeans, oversized button-down shirt, and sneakers.
-A sequin dress with strappy   statement earrings
+A sequin dress with strappy statement earrings
 A satin slip dress with a velvet blazer   
 A jumpsuit with a statement belt  
 A metallic midi skirt with a tucked-in blouse  
@@ -1690,24 +1656,18 @@ Boho Glamour Clothes: A flowy bohemian gown with intricate beadwork and embroide
 Balenciaga: Oversized hoodie, Speed sneakers
 Dior: Lady Dior bag, J'adior pumps
 Gucci: GG Marmont bag, Princetown loafers
-Saint Laurent: Tribute sandals, Kate bag
 Fendi: Peekaboo bag, Baguette bag
 Givenchy: Antigona bag, Shark Lock ankle boots
 Prada: Nylon backpack, Mary Jane pumps
 Valentino: Rockstud pumps, Rockstud Spike bag
 Bottega Veneta: The Pouch clutch, Stretch sandals
 Versace: Barocco print dress, Medusa head belt
-Celine: Triomphe bag, Celine Dion sunglasses
-Hermes: Birkin bag, Kelly bag
 Alexander McQueen: Oversized sneakers, Skull scarf
-Chloe: Faye bag, Woody sandals
 JW Anderson: Pierce bag, Converse x JW Anderson sneakers
-Loewe: Puzzle bag, Flamenco Knot bag
 Balmain: Double-breasted blazer, BBox bag
 Off-White: Industrial belt, Arrow sneakers
 Stella McCartney: Falabella bag, Eclypse sneakers
 Acne Studios: Musubi bag, Jensen boots
-The Row: Ascot bag, Bare sandals
 Tom Ford: Natalia bag, Padlock pumps
 Burberry: Trench coat, TB bag
 Yves Saint Laurent: Smoking jacket, Loulou bag
@@ -2192,7 +2152,6 @@ Crop knit sweater
 Lace knit cardigan
 Hooded knit sweater
 Open-front knit cardigan
-Cable knit headband
 Tassel knit poncho
 Textured knit skirt
 Oversized knit beanie
@@ -2233,7 +2192,6 @@ Hooded knit cardigan with toggle closures
 Cable knit boot cuffs
 Tassel knit shawl
 Striped knit maxi dress
-Chunky knit headband
 Open-back knit sweater
 Bell sleeve knit turtleneck
 Textured knit wide-leg pants
@@ -2249,7 +2207,6 @@ Mohair knit shrug
 Colorblock knit hoodie
 Bell sleeve knit turtleneck dress
 Hooded knit vest
-Lace knit headband
 Turtleneck knit maxi dress
 Chunky knit leg warmers
 Open-front knit duster cardigan
@@ -2307,7 +2264,6 @@ Knitwear and cozy sweaters
 Trendy plaid patterns
 Statement blazers
 Elegant wide-leg pants
-Cute headbands and hair accessories
 Modest crop tops
 Playful graphic tees
 Trench coats and outerwear
@@ -2386,8 +2342,6 @@ Chic belted shirt dresses
 Flowy kimono-style cardigans
 Modest culotte jumpsuits
 Striped boat neck tops
-Delicate floral headbands
-Stylish block heel sandals
 Modest ruffle hem skirts
 Classic oversized sunglasses
 Polished wide-leg palazzo pants
@@ -2545,7 +2499,6 @@ Prabal Gurung draped top
 Ralph Lauren tweed blazer
 Stella McCartney oversized coat
 Thom Browne tailored shorts
-Tiffany & Co. diamond necklace
 Tod's leather loafers
 Ulla Johnson printed maxi dress
 Victoria Beckham tailored trousers
@@ -2686,7 +2639,7 @@ Wearing all-black with a pop of color
 Styling schoolgirl uniform with a statement hat
 Dressing up a casual outfit with heels
 Going for a retro look with high-waisted jeans and a crop top
-Styling with statement earrings
+Styling dress with statement earrings
 Pairing a blazer with a graphic tee and jeans
 Playing with proportions, such as oversized tops and fitted bottoms
 Styling with a scarf
