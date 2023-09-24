@@ -2218,7 +2218,7 @@ Trench coats and outerwear
 Classy high-waisted trousers
 Layered jewelry and delicate accessories
 Flowy midi skirts
-Modest off-the-shoulder tops
+#Modest off-the-shoulder tops
 Casual oversized t-shirts
 Vintage-inspired denim jackets
 Boho-chic maxi dresses
@@ -2943,7 +2943,7 @@ South Sudanese thobe
 #Tahitian pareu
 Takchita
 Terno
-Fascinator
+Fascinator with playful wedding dress
 Visor with sexy tennis uniform
 Diadem
 Circlet
@@ -4480,7 +4480,6 @@ croptop
 dolman
 dress flower
 gloves
-habit uniform
 jupon
 miko uniform
 muslin
