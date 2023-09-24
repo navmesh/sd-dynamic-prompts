@@ -647,10 +647,7 @@ anklet
 anorak
 apron
 aran sweater
-arm warmers
-armlet
 armor
-armored boots
 armored dress
 ascot
 ascot tie
@@ -674,12 +671,7 @@ beanie
 bear costume
 bedclothes
 bell bottoms
-bell-bottoms
-belly chain
-belt
-beret
 bermuda shorts
-bib
 bike shorts
 bikesuit
 bikini
@@ -709,7 +701,7 @@ bracelet
 braces
 brassiere
 breeches
-bridal gauntlets
+bridal shawl , bridal bra and gauntlets
 briefs
 brooch
 bubble skirt
@@ -726,7 +718,6 @@ byzantine silk
 caftan
 camisole
 camouflage
-cap
 cap and gown
 cape
 capelet
@@ -750,7 +741,6 @@ cheerleader outfit
 chemise
 cheongsam
 chinese_dress
-choker
 civil war clothes
 cloak
 clockpunk
@@ -766,8 +756,6 @@ compression shirt
 converse
 corsage
 corset
-cosplay
-costume
 coveralls
 cow costume
 cowboy western
@@ -947,8 +935,6 @@ mongkhon
 monkey costume
 monocle
 mouse costume
-muffler
-muumuu
 mythpunk
 nanopunk
 navy uniform
