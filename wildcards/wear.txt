@@ -144,10 +144,7 @@ Midriff sarashi
 Chest sarashi
 Budget sarashi
 Undone sarashi
-straw cape
 mino boushi
-tabi
-tasuki
 korean clothes
 hanbok
 vietnamese dress
@@ -646,8 +643,6 @@ aiguillette
 ancient japan dress
 animal costume
 animal slippers
-ankle boots
-ankle socks
 anklet
 anorak
 apron
@@ -696,7 +691,6 @@ bloomers
 blouse
 boa
 boar costume
-bobby socks
 body stocking
 bodystocking
 bodysuit
@@ -892,8 +886,6 @@ hipster outfit
 honggaitou
 hood
 hoodie
-hook and eye
-hoop earrings
 hoop skirt
 hosiery
 hospital gown
@@ -1120,8 +1112,6 @@ slippers
 slipstream
 smock
 snaps
-sneakers
-socks
 solarpunk
 sombrero
 space punk
@@ -1141,7 +1131,6 @@ strapless leotard
 string bikini
 stringer
 striped shirt
-stud earrings
 suit
 suit jacket
 sukajan
@@ -1187,8 +1176,6 @@ tie
 tie clip
 tiger costume
 tights
-toe socks
-toeless footwear
 toga
 togs
 top coat
@@ -2249,7 +2236,6 @@ Striped knit maxi dress
 Chunky knit headband
 Open-back knit sweater
 Bell sleeve knit turtleneck
-Lace knit socks
 Textured knit wide-leg pants
 Fair Isle knit sweater dress
 Ribbed knit capelet
@@ -2272,7 +2258,6 @@ Striped knit tunic dress
 Cable knit backpack
 Fringe knit shawl
 Cowl neck knit cape
-Pointelle knit ankle socks
 Fair Isle knit poncho sweater
 Ribbed knit culottes
 Chunky knit wrist warmers
@@ -4258,7 +4243,6 @@ Plaid Shirt with Dark Wash Jeans.
 Monochromatic Outfit with Varying Textures.
 Striped Shirt with Tailored Shorts.
 Leather Boots with Cuffed Jeans.
-Patterned Socks with Dress Shoes.
 Oxford shirt
 Chambray shirt
 V-neck sweater
@@ -4764,3 +4748,4 @@ torsolette lingerie
 trunk lingerie
 vintage lingerie
 waist cincher lingerie
+Bicycle Racing suits
