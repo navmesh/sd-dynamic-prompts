@@ -120,7 +120,7 @@ dirndl
 japanese clothes
 fundoshi
 yamakasa
-geta
+#geta
 hakama
 hakama skirt
 hakama short skirt
@@ -133,18 +133,17 @@ uchikake
 yukata
 haori
 happi
-chanchanko
-dotera
+#chanchanko
+#dotera
 hanten
 kimono skirt
 miko
-nontraditional miko
-sarashi
-Midriff sarashi
-Chest sarashi
-Budget sarashi
-Undone sarashi
-mino boushi
+#nontraditional miko
+#sarashi
+#Midriff sarashi
+#Chest sarashi
+#Undone sarashi
+#mino boushi
 korean clothes
 hanbok
 vietnamese dress
@@ -636,14 +635,11 @@ Wiggle dress
 Brocade evening gown
 T-strap heels
 Fitted blazer with padded shoulders
-Chiffon scarf
 abaya
 adidas tracksuit
 aiguillette
 ancient japan dress
 animal costume
-animal slippers
-anklet
 anorak
 apron
 aran sweater
@@ -654,15 +650,14 @@ ascot tie
 athleisure
 atompunk
 backless dress
-badge
-balaclava
+#badge
+#balaclava
 ball gown
-ballet slippers
+sparkling ballet dress and ballet slippers
 band uniform
 bandanna
 bandeau
-bangle
-baseball cap
+#bangle
 baseball jersey
 bathing suit
 bathrobe
@@ -672,7 +667,6 @@ bear costume
 bedclothes
 bell bottoms
 bermuda shorts
-bike shorts
 bikesuit
 bikini
 bikini armor
@@ -687,22 +681,18 @@ bodystocking
 bodysuit
 bomber jacket
 bonnet
-boots
 boubou
-boutonniere
+#boutonniere
 bow
-bow tie
+#bow tie
 bowtie
-boxer shorts
-boxers
+#boxer shorts
+boxers uniform
 boyshorts
 bra
-bracelet
-braces
 brassiere
 breeches
 bridal shawl , bridal bra and gauntlets
-briefs
 brooch
 bubble skirt
 buckle
@@ -784,11 +774,10 @@ dolphin shorts
 drawers
 dress
 dress shirt
-duds
+#duds
 duffel coat
 dungarees
 duster
-elastic
 elf tunic
 epaulettes
 evening dress
@@ -796,13 +785,10 @@ evening gown
 fantasy punk
 fatigues
 feather boa
-fedora
-fez
+fedora hat with Stylish Fancy Dress
 flak jacket
 flannel nightgown
 flannel shirt
-flats
-flip-flops
 flower trim
 football jersey
 formal wear
@@ -820,7 +806,7 @@ gaiters
 gakuran
 galoshes
 gambeson
-garment
+#garment
 garter
 garter belt
 garter straps
@@ -868,7 +854,7 @@ jubbah
 jumper
 jumpsuit
 kameez
-kanzashi
+#kanzashi
 kanzu
 kaross
 kasa
@@ -878,10 +864,10 @@ kesa
 khakis
 kigurumi
 kilt
-kiltie loafers
+#kiltie loafers
 kittel
-knee boots
-kneehighs
+#knee boots
+#kneehighs
 knickers
 lab coat
 lace trim
@@ -917,8 +903,7 @@ maillot
 mandarin collar shirt
 manteau
 mantle
-mary janes
-mask
+cosplay dress with mask
 meiji schoolgirl uniform
 taiwan schoolgirl uniform
 china schoolgirl uniform
@@ -987,7 +972,6 @@ petticoat
 pig costume
 pilot suit
 pinafore
-plague doctor mask
 plaid
 plaid skirt
 pleated skirt
@@ -1065,9 +1049,6 @@ slacks
 sleeveless shirt
 sleeveless turtleneck
 slingshot swimsuit
-slip
-slippers
-slipstream
 smock
 snaps
 solarpunk
@@ -1097,7 +1078,6 @@ sundress
 sunglasses
 superhero
 surcoat
-surgical mask
 suspender skirt
 suspenders
 sweatband
@@ -1136,7 +1116,7 @@ tiger costume
 tights
 toga
 togs
-top coat
+#top coat
 torn clothes
 track suit
 tracksuit
@@ -1157,7 +1137,7 @@ tweed suit
 twill
 twin set
 twinset
-umbrella
+lolita fashion dress with umbrella
 underbust
 underclothes
 underpants
@@ -1180,7 +1160,7 @@ warrior armor
 warrior dress
 wedding dress
 wedding gown
-wedge heels
+lolita dress with wedge heels
 weirdpunk
 wellingtons
 western clothes
@@ -1191,8 +1171,7 @@ wide sleeves
 wig
 windbreaker
 winter coat
-woolens
-wrap
+woolens costume
 yellow raincoat
 yoga pants
 yoke
@@ -2278,7 +2257,7 @@ Retro-inspired bucket hats
 Flowy peasant blouses
 Trendy plaid skirts
 Modest flared jeans
-Striped sailor tops
+Striped Sailor Suit Crop Top uniform
 Polished blazers with long sleeves
 Casual slip-on sneakers
 Delicate ruffle details
@@ -2614,8 +2593,8 @@ Beaded crop top, silk pants, crystal earrings, embellished sandals
 Sequin blouson dress, metallic stilettos, crystal drop earrings
 Satin jumpsuit, crystal chandelier earrings, designer clutch, strappy heels.
 Monochromatic dressing
-Layering with oversized pieces
-Mixing prints and patterns
+#Layering with oversized pieces dress
+Mixing prints and patterns dress
 Pairing feminine and masculine pieces
 Wearing a statement coat
 Playing with textures, such as leather and silk
@@ -2783,7 +2762,7 @@ Safari clothing
 Western wear
 Skiwear
 Snowboarding clothing
-Hunting clothing
+#Hunting clothing
 Fishing clothing
 Motorcycle gear
 Formal uniform
@@ -2953,7 +2932,6 @@ Deel
 Dirac
 Dolman jacket
 Dzongkha
-Fustanella
 Gomesi
 Habesha kemis
 Iro and buba
@@ -2976,11 +2954,10 @@ Mino
 Native American regalia
 Oaxacan huipil
 Pangden
-Pao
 Pha biang
 Piteado
 Polera
-Rebozo
+#Rebozo
 Sharara
 Shuka
 Shweshwe
@@ -4161,7 +4138,6 @@ Cravat pin
 Double-breasted overcoat
 Wing collar shirt
 Bolo tie
-Paisley pocket square
 Velvet smoking slippers
 Herringbone waistcoat
 Victorian frock coat
@@ -4237,7 +4213,6 @@ Round Neck Sweater
 Round Neck Top
 Ruffle Sleeve Dress
 Ruffle Sleeve Top
-Scarves
 Short Sleeve Dress
 Short Sleeve Top
 Sleeveless Dress
@@ -4247,7 +4222,7 @@ Spaghetti Strap Dress
 Spaghetti Strap Top
 Strapless Top
 Sweater Coat
-Top
+sexy crop-Top shirt
 Trench Coat with a hood
 Tulip Skirt
 Tunic Top
