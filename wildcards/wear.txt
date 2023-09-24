@@ -114,7 +114,7 @@ changpao
 china dress
 fengguan
 hanfu
-longpao
+#longpao
 tangzhuang
 dirndl
 japanese clothes
@@ -131,13 +131,12 @@ layered kimono
 short kimono
 uchikake
 yukata
-haori
+#haori
 happi
 #chanchanko
 #dotera
 hanten
 kimono skirt
-miko
 #nontraditional miko
 #sarashi
 #Midriff sarashi
@@ -647,7 +646,6 @@ armor
 armored dress
 ascot
 ascot tie
-athleisure
 atompunk
 backless dress
 #badge
@@ -662,7 +660,6 @@ baseball jersey
 bathing suit
 bathrobe
 battledress
-beanie
 bear costume
 bedclothes
 bell bottoms
@@ -697,7 +694,6 @@ brooch
 bubble skirt
 buckle
 bunny suit
-buruma
 business suit
 bustier
 button badge
@@ -707,7 +703,6 @@ byzantine dress
 byzantine silk
 caftan
 camisole
-camouflage
 cap and gown
 cape
 capelet
@@ -724,9 +719,9 @@ cat costume
 cat suit
 catsuit
 chador
-championship belt
+female boxing outfit with championship belt
 chaps
-chausses
+#chausses
 cheerleader outfit
 chemise
 cheongsam
@@ -736,8 +731,6 @@ cloak
 clockpunk
 clog sandals
 clogs
-clothes
-clothing
 coat
 collar
 collared shirt
@@ -754,10 +747,8 @@ criss-cross halter
 crocs
 crop top
 cropped jacket
-crown
-cuff
+miss world dress with crown
 cuff links
-culottes
 cummerbund
 cutoff jeans
 cyberpunk
@@ -771,7 +762,6 @@ dieselpunk
 dinner jacket
 dog costume
 dolphin shorts
-drawers
 dress
 dress shirt
 #duds
@@ -795,7 +785,7 @@ formal wear
 frilled shirt
 frills
 frock
-frostpunk
+#frostpunk
 fur
 fur coat
 fur trim
@@ -848,7 +838,6 @@ jammers
 jeans
 jerkin
 jersey
-jewelry
 jodhpurs
 jubbah
 jumper
@@ -857,7 +846,6 @@ kameez
 #kanzashi
 kanzu
 kaross
-kasa
 kasaya
 kerchief
 kesa
@@ -896,7 +884,7 @@ lowleg bikini
 lowleg pants
 lowleg shorts
 lowleg skirt
-magicpunk
+#magicpunk
 maid headdress
 maid uniform
 maillot
@@ -916,15 +904,14 @@ mini-skirt
 miniskirt
 mittens
 moccasins
-mongkhon
+#mongkhon
 monkey costume
 monocle
 mouse costume
 mythpunk
-nanopunk
 navy uniform
 neck ribbon
-neck ruff
+#neck ruff
 neckerchief
 necktie
 negligee
@@ -951,7 +938,6 @@ oxfords
 pajamas
 paladin armor
 paletot
-pallium
 panda costume
 pant suit
 panties
@@ -977,15 +963,12 @@ plaid skirt
 pleated skirt
 plug suit
 plugsuit
-pocket
-pocket watch
-pocketbook
 police uniform
 polo
 polo shirt
 poncho
 poodle skirt
-post-apocalypticpunk
+post apocalyptic punk
 power armor
 prom dress
 pullover
@@ -1020,7 +1003,6 @@ sash
 scarf
 school swimsuit
 school uniform
-scrubs
 seal costume
 see-through
 serafuku
@@ -1050,9 +1032,7 @@ sleeveless shirt
 sleeveless turtleneck
 slingshot swimsuit
 smock
-snaps
 solarpunk
-sombrero
 space punk
 space suit
 spacesuit
@@ -1060,7 +1040,7 @@ spandex
 splatterpunk
 sports bikini
 sports bra
-spurs
+#spurs
 steampunk
 steelpunk
 stockings
@@ -1124,7 +1104,7 @@ tracksuit bottoms
 transparent raincoat
 trousers
 trunks
-tube top
+#tube top
 tunic
 turban
 turtleneck
@@ -2208,7 +2188,7 @@ Bohemian style
 Classic vintage
 Elegant dresses
 Cute and girly outfits
-Sporty athleisure
+Sporty athleisure clothes
 Retro-inspired fashion
 Modest fashion
 Denim on denim
@@ -2592,12 +2572,10 @@ Feather-trimmed blazer, silk camisole, leather pants, designer clutch
 Beaded crop top, silk pants, crystal earrings, embellished sandals
 Sequin blouson dress, metallic stilettos, crystal drop earrings
 Satin jumpsuit, crystal chandelier earrings, designer clutch, strappy heels.
-Monochromatic dressing
 #Layering with oversized pieces dress
 Mixing prints and patterns dress
 Pairing feminine and masculine pieces
 Wearing a statement coat
-Playing with textures, such as leather and silk
 Incorporating metallic accents
 Styling with bold accessories
 Pairing denim with unexpected pieces
@@ -2610,7 +2588,6 @@ Going for a retro look with high-waisted jeans and a crop top
 Styling dress with statement earrings
 Pairing a blazer with a graphic tee and jeans
 Playing with proportions, such as oversized tops and fitted bottoms
-Styling with a scarf
 Mixing and matching different shades of the same color
 Pair a classic blazer with tailored trousers and pointed-toe heels.
 Wear a little black dress with a statement necklace and heels.
@@ -2908,7 +2885,7 @@ Baju Kurung
 Tang suit
 Salwar Kameez
 Huipil
-Gho
+#Gho
 Kanga
 Keffiyeh
 Kira
@@ -2941,7 +2918,7 @@ Kapoteh
 Kebaya
 Kente cloth
 Kikoi
-Kitenge
+#Kitenge
 Kofia
 Krama
 Kurti
@@ -2963,11 +2940,11 @@ Shuka
 Shweshwe
 Somali dirac
 South Sudanese thobe
-Tahitian pareu
+#Tahitian pareu
 Takchita
 Terno
 Fascinator
-Visor
+Visor with sexy tennis uniform
 Diadem
 Circlet
 Coronet
@@ -3019,8 +2996,8 @@ Cycling shorts
 Dance tights
 Doublet
 Hose
-Cotehardie
-Hennin
+#Cotehardie
+#Hennin
 Poulaine
 Chaperon
 Codpiece
@@ -4128,7 +4105,7 @@ Morning coat
 Brogues
 Ascot cap
 Cufflinks
-Walking cane
+#Walking cane
 Smoking jacket
 Dressing gown
 Pinstripe trousers
@@ -4504,7 +4481,6 @@ dolman
 dress flower
 gloves
 habit uniform
-haik
 jupon
 miko uniform
 muslin

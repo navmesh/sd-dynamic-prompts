@@ -5,7 +5,7 @@ Chile
 Colombia
 Ecuador
 French Guiana
-Guyana
+#Guyana
 Paraguay
 Peru
 Suriname
