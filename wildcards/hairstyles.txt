@@ -77,7 +77,6 @@ dutch fishtail side ponytail
 messy bun
 low bun
 high bun
-braided bun
 doughnut bun
 cinnamon bun
 rope braid bun
@@ -93,7 +92,6 @@ side bun
 bohemian bun
 voluminous bun
 curly bun
-braided top knot
 ballerina bun
 crown bun
 waterfall bun
@@ -106,7 +104,6 @@ half-up chignon
 upside down chignon
 topsy tail chignon
 knotted chignon
-braided updo
 cascading curls bun
 low rolled bun
 fishtail bun
@@ -193,7 +190,6 @@ Caesar cut
 Mohawk
 Faux hawk
 High and tight
-Bald
 Bald fade
 Low fade
 High fade
@@ -230,7 +226,6 @@ Short and spiky
 Short and slicked back
 The comb-over fade
 Bob
-Lob
 Pixie
 Shag
 Layered
@@ -239,40 +234,19 @@ Bangs
 Side-swept bangs
 Curtain bangs
 Blunt bangs
-French twist
-Top knot
 Chignon
 Beehive
 Bouffant
-French braid
-Dutch braid
-Fishtail braid
-Crown braid
-Milkmaid braid
-Waterfall braid
-Twist braid
-Ponytail
 High ponytail
 Low ponytail
 Half-up half-down
 Braided half-up half-down
-Messy bun
-Ballerina bun
-Braided bun
 French twist bun
-Low bun
-Curly
-Wavy
 Straight
-Afro
-Dreadlocks
 Cornrows
-Box braids
 Twist out
 Bantu knots
-Mohawk
 Fauxhawk
-Undercut
 Bob with bangs
 Side-swept curls
 Pigtails
@@ -295,8 +269,6 @@ bouffant hair
 bow-shaped hair
 bowl cut hair
 braided hair
-braided bangs
-braided bun
 brush cut hair
 bunches hair
 burr hair
@@ -320,13 +292,11 @@ dice bob hair
 dido flip hair
 double bun hair
 doughnut hair bun
-dreadlocks
 duck's ass hair
 eton crop hair
 emo hair
 fade hair
 fallera hair
-fauxhawk
 feathered hair
 finger wave hair
 fishtail hair
@@ -352,7 +322,6 @@ half down hair
 harvard clip hair
 heart hair bun
 high and tight hair
-high ponytail
 highlights hair
 hime cut hair
 hi-top fade hair
@@ -372,9 +341,7 @@ low twintails hair
 marcelling hair
 mizura hair
 mod cut hair
-mohawk
 mop-top hair
-mullet
 multi-tied hair
 multiple braids
 nihongami hair
@@ -388,7 +355,6 @@ payot hair
 perm hair
 pigtails hair
 pixie cut
-pompadour
 ponyhawk hair
 ponytail hair
 princeton hair
@@ -416,7 +382,6 @@ short hair
 short ponytail
 short twintails hair
 shouten pegasus mix mori hair
-side braid
 single braid
 single hair bun
 slicked-back hair
@@ -438,17 +403,11 @@ undercut hair
 updo hair
 uneven twintails hair
 wavy hair
-ponytail
-side ponytail
-high ponytail
-low ponytail
 messy ponytail
 sleek ponytail
 bubble ponytail
-braided ponytail
 twisted ponytail
 top knot ponytail
-curly ponytail
 wavy ponytail
 bouffant ponytail
 textured ponytail
@@ -456,7 +415,6 @@ wrapped ponytail
 double ponytail
 half-up ponytail
 crimped ponytail
-fishtail ponytail
 knotted ponytail
 ribboned ponytail
 teased ponytail
@@ -466,8 +424,6 @@ layered ponytail
 banded ponytail
 bow ponytail
 cornrowed ponytail
-French braid ponytail
-Dutch braid ponytail
 Straight and Sleek
 Straight Blunt Cut
 Straight Long Layers
@@ -549,8 +505,6 @@ curtain bangs hair
 deep side part hair
 fishtail braid hair
 flowy layers hair
-French braid hair
-French twist hair
 half-up half-down hair
 high ponytail hair
 honey blonde waves hair
@@ -566,7 +520,6 @@ messy half-up hair
 middle part straight hair
 multi-braid hair
 ombré hair
-pigtails hair
 pinned back hair
 pixie braids hair
 romantic waves hair
@@ -605,7 +558,6 @@ choppy lob hair
 blunt lob hair
 asymmetrical lob hair
 side-parted lob hair
-blunt cut hair
 angled bob hair
 A-line bob hair
 soft bob hair
@@ -625,71 +577,36 @@ blunt shoulder-length hair
 textured shoulder-length hair
 asymmetrical shoulder-length hair
 side-swept bangs hair
-curtain bangs hair
 layered curtain bangs hair
 wispy bangs hair
 textured bangs hair
 side-parted hair
 center-parted hair
 sleek hair
-slicked-back hair
 messy hair
-beachy waves hair
 textured waves hair
 big waves hair
 curly hair
-voluminous curls hair
 textured curls hair
 ringlet curls hair
 mermaid waves hair
 layered waves hair
 choppy waves hair
 asymmetrical waves hair
-half-up half-down hair
-braided hair
-fishtail braid hair
-French braid hair
 Dutch braid hair
-messy bun hair
-sleek low bun hair
 top knot hair
 half-up bun hair
-twisted updo hair
 textured updo hair
-braided updo hair
-low ponytail hair
-high ponytail hair
 slicked-back ponytail hair
 pixie hair
 bob hair
-lob hair
-shag hair
 mullet hair
 asymmetrical hair
-undercut hair
 french crop hair
-slicked back hair
 faux hawk hair
-spiky hair
-curly hair
-wavy hair
 textured hair
-layered hair
 choppy hair
-blunt cut hair
 side swept bangs hair
-fringe hair
-buzz cut hair
-angled bob hair
-A-line bob hair
-soft bob hair
-textured bob hair
-curly bob hair
-wavy bob hair
-layered bob hair
-choppy bob hair
-blunt bob hair
-long bob hair
 short shag hair
 medium shag hair
 long shag hair
@@ -701,14 +618,6 @@ choppy shag hair
 blunt shag hair
 angled shag hair
 french bob hair
-curly lob hair
-wavy lob hair
-textured lob hair
-layered lob hair
-choppy lob hair
-blunt lob hair
-asymmetrical lob hair
-side-parted lob hair
 messy lob hair
 slicked back lob hair
 beachy waves lob hair
@@ -736,3 +645,30 @@ short choppy hair
 short asymmetrical hair
 short slicked back hair
 short spiky hair
+beach waves
+blowout
+braided hairstyle
+bun
+choppy bob
+drill hair
+frohawk
+graduated bob
+hair flaps
+half-up half-down hairstyle
+medium hair
+perm
+pixie bob
+pixie cut with bangs
+pointy hair
+prom hairstyle
+razor cut
+ringlets
+shaggy hair
+spiked hair
+straight hair
+twin drills
+twist-out
+updo
+updo hairstyle
+wedge cut
+wet-look hairstyle
