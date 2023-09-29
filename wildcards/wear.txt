@@ -114,6 +114,10 @@ changpao
 china dress
 fengguan
 hanfu
+Chinese girl Traditional Clothing
+japanese girl Traditional Clothing
+korean girl Traditional Clothing
+russian girl Traditional Clothing
 #longpao
 tangzhuang
 dirndl
@@ -736,6 +740,7 @@ collar
 collared shirt
 competition swimsuit
 compression shirt
+compression shirt with nipples showing
 converse
 corsage
 corset
@@ -1521,6 +1526,9 @@ Bodycon dress
 High-low dress
 Shirt dress
 Ballgown
+winter schoolgirl coat and mini-skirt
+Girl Varsity Jacket and mini-skirt
+#chinese upshirt
 Pastel Elegance: A light pink collared shirt paired with a mint green flared skirt. Delicate floral patterns adorn the shirt, creating a feminine and elegant look.
 Classic Chic: A white collared shirt tucked into a black flared skirt. Accessorize with a wide belt and pearl jewelry for a timeless and sophisticated ensemble.
 Boho Beauty: A flowy, off-white collared shirt with bell sleeves combined with a floral-printed flared skirt. Add a wide-brimmed hat and beaded accessories for a bohemian touch.
@@ -1549,6 +1557,7 @@ Whimsical Fairy: A sheer, ethereal collared shirt with flutter sleeves combined 
 Tropical Paradise: A collared shirt featuring tropical prints like palm leaves or exotic flowers, paired with a vibrant, high-waisted flared skirt. Style with straw accessories and sandals.
 Modern Retro: A retro-inspired collared shirt in a bold color paired with a high-waisted flared skirt featuring a matching pattern. Complete the look with retro sunglasses and platform heels.
 Romantic Lace: A lace collared shirt layered under a cropped cardigan, paired with a lace flared skirt. Opt for soft, feminine colors and delicate accessories for a romantic touch.
+Romantic Lace: A lace collared shirt layered under a cropped cardigan, paired with a lace flared mini-skirt. Opt for soft, feminine colors and delicate accessories for a romantic touch.
 Artistic Expression: A collared shirt featuring an artistic print or brushstroke design paired with a flared skirt in complementary colors. Accessorize with bold, statement jewelry.
 Whimsical Wonderland: A collared shirt with whimsical illustrations or fairytale motifs paired with a flared skirt featuring a matching pattern. Style with colorful accessories and playful shoes.
 Elegant Neutrals: A neutral-toned collared shirt, such as beige or cream, paired with a flared skirt in a complementary shade. Opt for delicate gold jewelry and nude heels for an elegant look.
