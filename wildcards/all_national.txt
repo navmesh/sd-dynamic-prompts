@@ -1,0 +1,186 @@
+﻿#Guyana
+#Antigua & Barbuda
+Afghanistan
+Armenia
+Azerbaijan
+Bangladesh
+Bhutan
+Brunei Darussalam
+Cambodia
+China
+Georgia
+Hong Kong
+India
+Indonesia
+Japan
+Kazakhstan
+Korea, North
+Korea, South
+Kyrgyzstan
+Laos
+Macao
+Malaysia
+Maldives
+Mongolia
+Myanmar (ex-Burma)
+Nepal
+Pakistan
+Philippines
+Singapore
+Sri Lanka (ex-Ceilan)
+Taiwan
+Tajikistan
+Thailand
+Timor Leste (West)
+Turkmenistan
+Uzbekistan
+Vietnam
+Aruba
+Bahamas
+Barbados
+Cayman Islands
+Cuba
+Dominica
+Dominican Republic
+Grenada
+Guadeloupe
+Haiti
+Jamaica
+Martinique
+Puerto Rico
+Saint Barthélemy
+St. Kitts & Nevis
+St. Lucia
+St. Vincent and the Grenadines
+Trinidad & Tobago
+Turks & Caicos Islands
+Virgin Islands
+Austria
+Belgium
+Bulgaria
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+Albania
+Andorra
+Belarus
+Bosnia
+Croatia
+European Union
+Faroe Islands
+Gibraltar
+Guernsey and Alderney
+Iceland
+Isle of Man
+Jersey
+Kosovo
+Liechtenstein
+Moldova
+Monaco
+Montenegro
+North Macedonia
+Norway
+Russia
+San Marino
+Serbia
+Svalbard and Jan Mayen Islands
+Switzerland
+Turkey
+Ukraine
+United Kingdom
+Vatican City State (Holy See)
+Austria
+Belgium
+Bulgaria
+Cyprus
+Czech Republic
+Denmark
+Estonia
+Finland
+France
+Germany
+Greece
+Hungary
+Ireland
+Italy
+Latvia
+Lithuania
+Luxembourg
+Malta
+Netherlands
+Poland
+Portugal
+Romania
+Slovakia
+Slovenia
+Spain
+Sweden
+Bahrain
+Iraq
+Iran
+Israel
+Jordan
+Kuwait
+Lebanon
+Oman
+Palestine
+Qatar
+Saudi Arabia
+Syria
+United Arab Emirates
+Yemen
+Belize
+Costa Rica
+El Salvador
+Guatemala
+Honduras
+Mexico
+Nicaragua
+Panama
+Australia
+Fiji
+French Polynesia
+Guam
+Kiribati
+Marshall Islands
+Micronesia
+New Caledonia
+New Zealand
+Papua New Guinea
+Samoa
+Samoa, American
+Solomon, Islands
+Tonga
+Vanuatu
+Argentina
+Bolivia
+Brazil
+Chile
+Colombia
+Ecuador
+French Guiana
+Paraguay
+Peru
+Suriname
+Uruguay
+Venezuela

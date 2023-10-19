@@ -672,3 +672,44 @@ updo
 updo hairstyle
 wedge cut
 wet-look hairstyle
+# 80s Wildcard - Hair #
+asymmetrical bob
+banana clip
+big curls
+crimped waves
+curly perm
+feathered bangs
+finger waves
+high side ponytail
+jelly roll curls
+permed shag
+poofy bangs
+punk spikes
+teased and hairsprayed
+teased crown
+tousled waves
+voluminous layers
+wavy perm
+teased bouffant
+side bangs
+side ponytail with a scrunchie bow
+teased and crimped crown
+half-up, half-down with crimped ends
+messy side bun
+side-swept bangs with curls
+rocker chick spikes
+side-swept long layers
+slicked-back high ponytail
+big and curly side part
+asymmetrical pixie cut
+stacked curls with a headscarf
+mega perm
+topknot with a scrunchie
+side-swept crimped waves
+curly mullet
+rat-tail braid
+spiral perm
+high and tight ponytail
+side-parted crimped bob
+mohawk with side shave
+side-swept curls with a visor
